@@ -9,21 +9,13 @@ This project avoids unnecessary abstractions and focuses on a small, readable co
 ## ✨ Features
 
 ✅ Header-only (#include and go)
-
 ✅ Modern C++17 / C++20 compatible
-
 ✅ Fixed-size worker pool
-
 ✅ Task submission with std::future
-
 ✅ Task priorities (simple & predictable)
-
 ✅ Exception-safe
-
 ✅ Graceful shutdown
-
 ✅ No dynamic allocations in hot paths
-
 ✅ Cross-platform (Linux, Windows, macOS)
 
 ## 🎯 Design Goals
